@@ -76,3 +76,4 @@ max_block_time = '30s'
 trusting_period = '1day'
 trust_threshold = { numerator = '1', denominator = '3' }
 address_type = { derivation = 'cosmos' }
+memo_prefix = 'MMS'
